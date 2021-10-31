@@ -1,0 +1,11 @@
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.csproj.AssemblyReference.cache
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.Form1.resources
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.Properties.Resources.resources
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.csproj.GenerateResource.cache
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.csproj.CoreCompileInputs.cache
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\bin\Debug\MB_Modbus_TCP_Test_GUI.exe.config
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\bin\Debug\MB_Modbus_TCP_Test_GUI.exe
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\bin\Debug\MB_Modbus_TCP_Test_GUI.pdb
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\bin\Debug\EasyModbus.dll
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.exe
+D:\Users\elect\Documents\projects\arduino\ESP32\modbus\MB_Modbus_TCP_Test_GUI\obj\Debug\MB_Modbus_TCP_Test_GUI.pdb
