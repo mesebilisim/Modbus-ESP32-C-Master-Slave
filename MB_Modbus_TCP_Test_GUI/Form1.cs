@@ -44,6 +44,7 @@ namespace MB_Modbus_TCP_Test_GUI
                 else
                 {
                     mbc.Disconnect();
+                    baglanti = false;
                     button2.Enabled = false;
                     button3.Enabled = false;
                     button1.Text = "Bağlan";
